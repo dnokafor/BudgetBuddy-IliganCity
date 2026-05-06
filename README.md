@@ -7,7 +7,7 @@
 Built with love using **Express.js**, **React.js**, and hosted on **Vercel**. 🧡
 
 ---
-
+ 
 ## Why Did I Make This Project?
 
 With the fluctuating prices of everyday goods, planning a grocery run can be stressful. I built Budget Buddy to solve a simple problem: **knowing exactly what you'll spend before you reach the cashier.** Beyond that, this project serves as a way to give back to the local community in Iligan City while pushing my skills in full-stack web development, secure authentication, and modern UI/UX design.
